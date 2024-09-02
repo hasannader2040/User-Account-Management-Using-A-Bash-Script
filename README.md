@@ -23,10 +23,33 @@ This project provides a Bash script for managing user accounts on a Linux system
 This script is part of a larger system administration project aimed at simplifying user account management on Linux-based systems.
 
 ## How to Run the Code
-1. Clone the repository: `git clone https://github.com/hasannader2040/User-Account-Management-Using-A-Bash-Script.git`
-2. Navigate to the directory: `cd User-Account-Management-Using-A-Bash-Script`
-3. Make the script executable: `chmod +x user-mangment.sh`
-4. Run the script: `./user-mangment.sh`
+1. Clone the repository: 
+
+```console
+git clone https://github.com/hasannader2040/User-Account-Management-Using-A-Bash-Script.git`
+foo
+```
+
+2. Navigate to the directory: 
+
+```console
+cd User-Account-Management-Using-A-Bash-Script`
+foo
+```
+
+3. Make the script executable: 
+
+```console
+chmod +x user-mangment.sh`
+foo
+```
+
+4. Run the script:
+
+```console
+ ./user-mangment.sh`
+foo
+```
 
 ## Tools Used
 - **Bash**: For scripting.
