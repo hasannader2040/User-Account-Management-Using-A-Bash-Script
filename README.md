@@ -27,28 +27,28 @@ This script is part of a larger system administration project aimed at simplifyi
 
 ```console
 git clone https://github.com/hasannader2040/User-Account-Management-Using-A-Bash-Script.git`
-foo
+
 ```
 
 2. Navigate to the directory: 
 
 ```console
 cd User-Account-Management-Using-A-Bash-Script`
-foo
+
 ```
 
 3. Make the script executable: 
 
 ```console
 chmod +x user-mangment.sh`
-foo
+
 ```
 
 4. Run the script:
 
 ```console
  ./user-mangment.sh`
-foo
+
 ```
 
 ## Tools Used
