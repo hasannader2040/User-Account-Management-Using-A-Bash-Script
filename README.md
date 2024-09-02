@@ -59,12 +59,20 @@ chmod +x user-mangment.sh`
 1. **Add a user**: 
    ```bash
    ./user-mangment.sh add <username>
+```
 
 ## Delete a user:
+
+```console
 ./user-mangment.sh delete <username>
+```
 
 ## Modify a user:
+
+```console
 ./user-mangment.sh modify <username> <options>
+```
+
 
 ## finally 
 ## Additional Information
